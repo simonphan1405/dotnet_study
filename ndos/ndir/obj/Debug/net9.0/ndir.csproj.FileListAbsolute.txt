@@ -1,0 +1,14 @@
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/bin/Debug/net9.0/ndir
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/bin/Debug/net9.0/ndir.deps.json
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/bin/Debug/net9.0/ndir.runtimeconfig.json
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/bin/Debug/net9.0/ndir.dll
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/bin/Debug/net9.0/ndir.pdb
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/ndir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/ndir.AssemblyInfoInputs.cache
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/ndir.AssemblyInfo.cs
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/ndir.csproj.CoreCompileInputs.cache
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/ndir.dll
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/refint/ndir.dll
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/ndir.pdb
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/ndir.genruntimeconfig.cache
+/Users/hieuphan/Documents/web-development/study/ndos/ndir/obj/Debug/net9.0/ref/ndir.dll

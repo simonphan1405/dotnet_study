@@ -1,0 +1,14 @@
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/bin/Debug/net9.0/Lambda
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/bin/Debug/net9.0/Lambda.deps.json
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/bin/Debug/net9.0/Lambda.runtimeconfig.json
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/bin/Debug/net9.0/Lambda.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/bin/Debug/net9.0/Lambda.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/Lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/Lambda.AssemblyInfoInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/Lambda.AssemblyInfo.cs
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/Lambda.csproj.CoreCompileInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/Lambda.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/refint/Lambda.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/Lambda.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/Lambda.genruntimeconfig.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/lambda/Lambda/obj/Debug/net9.0/ref/Lambda.dll

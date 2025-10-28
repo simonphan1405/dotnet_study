@@ -1,0 +1,14 @@
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/bin/Debug/net9.0/ExceptionDemo
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/bin/Debug/net9.0/ExceptionDemo.deps.json
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/bin/Debug/net9.0/ExceptionDemo.runtimeconfig.json
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/bin/Debug/net9.0/ExceptionDemo.dll
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/bin/Debug/net9.0/ExceptionDemo.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/ExceptionDemo.AssemblyInfoInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/ExceptionDemo.AssemblyInfo.cs
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/ExceptionDemo.csproj.CoreCompileInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/ExceptionDemo.dll
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/refint/ExceptionDemo.dll
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/ExceptionDemo.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/ExceptionDemo.genruntimeconfig.cache
+/Users/hieuphan/Documents/web-development/study/dotnet/ExceptionDemo/obj/Debug/net9.0/ref/ExceptionDemo.dll

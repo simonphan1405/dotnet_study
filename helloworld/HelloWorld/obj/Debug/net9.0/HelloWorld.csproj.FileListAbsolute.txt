@@ -1,0 +1,14 @@
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/hieuphan/Documents/web-development/study/dotnet/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll

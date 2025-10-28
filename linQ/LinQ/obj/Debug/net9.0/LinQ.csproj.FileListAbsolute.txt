@@ -1,0 +1,14 @@
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/bin/Debug/net9.0/LinQ
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/bin/Debug/net9.0/LinQ.deps.json
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/bin/Debug/net9.0/LinQ.runtimeconfig.json
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/bin/Debug/net9.0/LinQ.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/bin/Debug/net9.0/LinQ.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/LinQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/LinQ.AssemblyInfoInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/LinQ.AssemblyInfo.cs
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/LinQ.csproj.CoreCompileInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/LinQ.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/refint/LinQ.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/LinQ.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/LinQ.genruntimeconfig.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/linQ/LinQ/obj/Debug/net9.0/ref/LinQ.dll

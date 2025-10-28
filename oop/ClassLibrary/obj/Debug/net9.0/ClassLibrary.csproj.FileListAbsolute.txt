@@ -1,0 +1,11 @@
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/bin/Debug/net9.0/ClassLibrary.deps.json
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/bin/Debug/net9.0/ClassLibrary.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/bin/Debug/net9.0/ClassLibrary.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/obj/Debug/net9.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/obj/Debug/net9.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/obj/Debug/net9.0/ClassLibrary.AssemblyInfo.cs
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/obj/Debug/net9.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/obj/Debug/net9.0/ClassLibrary.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/obj/Debug/net9.0/refint/ClassLibrary.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/obj/Debug/net9.0/ClassLibrary.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet_study/oop/ClassLibrary/obj/Debug/net9.0/ref/ClassLibrary.dll

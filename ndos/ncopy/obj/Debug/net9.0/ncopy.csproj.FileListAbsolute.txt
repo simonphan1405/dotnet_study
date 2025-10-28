@@ -1,0 +1,14 @@
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/bin/Debug/net9.0/ncopy
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/bin/Debug/net9.0/ncopy.deps.json
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/bin/Debug/net9.0/ncopy.runtimeconfig.json
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/bin/Debug/net9.0/ncopy.dll
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/bin/Debug/net9.0/ncopy.pdb
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/ncopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/ncopy.AssemblyInfoInputs.cache
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/ncopy.AssemblyInfo.cs
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/ncopy.csproj.CoreCompileInputs.cache
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/ncopy.dll
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/refint/ncopy.dll
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/ncopy.pdb
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/ncopy.genruntimeconfig.cache
+/Users/hieuphan/Documents/web-development/study/ndos/ncopy/obj/Debug/net9.0/ref/ncopy.dll
