@@ -15,3 +15,6 @@ Console.WriteLine($"After assigning 30 to x, c1: x = {Class.x}.");
 
 AssignX(1234);
 Console.WriteLine($"After calling AssignX(1234), c1: x = {Class.x}.");
+
+Class.F();
+Console.WriteLine($"After calling Class.F(), c1: x = {Class.x}.");
