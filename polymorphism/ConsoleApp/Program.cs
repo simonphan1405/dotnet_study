@@ -4,6 +4,9 @@ var rand = new Random();
 
 Animal animal = GetRandomAnimal(rand.Next(0, 3));
 
+Animal animalA = new Bird();
+Bird birdA = (Bird)animalA; // Downcasting
+
 static Animal GetRandomAnimal(int id)
 {
     switch (id)
@@ -18,3 +21,5 @@ static Animal GetRandomAnimal(int id)
 }
 
 animal.Move(); // Output: Dog is running
+animalA.A();   // Output: Animal.A
+birdA.A();  // Output: Bird.A

@@ -6,4 +6,10 @@ internal class Bird: Animal
     {
         Console.WriteLine("Bird is flying");
     }
+
+    public new void A()
+    {
+        Console.WriteLine("Bird.A");
+    }
+
 }

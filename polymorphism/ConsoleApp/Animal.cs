@@ -6,4 +6,10 @@ internal class Animal
     {
         Console.WriteLine("Move");
     }
+
+    public void A()
+    {
+        Console.WriteLine("Animal.A");
+    }
+
 }
