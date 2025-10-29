@@ -1,12 +1,10 @@
 ﻿using ConsoleApp;
 
-var c1 = new Class() { x = 10 };
-var c2 = new Class() { x = 20 };
+var c1 = new Class() {  };
+var c2 = new Class() {  };
 
-Console.WriteLine(c1.x);
-Console.WriteLine(c2.x);
+Console.WriteLine(Class.x);
 
-c2.x = 30;
+Class.x = 30;
 
-Console.WriteLine(c1.x);
-Console.WriteLine(c2.x);
+Console.WriteLine(Class.x);

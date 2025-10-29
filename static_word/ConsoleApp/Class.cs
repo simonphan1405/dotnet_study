@@ -4,5 +4,5 @@ namespace ConsoleApp;
 
 public class Class
 {
-    public int x;
+    public static int x;
 }
