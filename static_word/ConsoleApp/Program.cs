@@ -1,20 +1,9 @@
 ﻿using ConsoleApp;
 
-var c1 = new Class() {  };
-
-static void AssignX(int value)
+Person person = new()
 {
-    Class.x = value;
-}
+    Id = 1,
+    Name = "John Doe"
+};
 
-Console.WriteLine("c1 can not access x directly because x is static.");
-Console.WriteLine($"Values of c1: x = {Class.x}");
-
-Class.x = 30;
-Console.WriteLine($"After assigning 30 to x, c1: x = {Class.x}.");
-
-AssignX(1234);
-Console.WriteLine($"After calling AssignX(1234), c1: x = {Class.x}.");
-
-Class.F();
-Console.WriteLine($"After calling Class.F(), c1: x = {Class.x}.");
+Console.WriteLine($"Person ID: {person.Id}, Name: {person.Name}");
