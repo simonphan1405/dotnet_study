@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/Animal/Animal.csproj": {}
+    "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/ConsoleApp.csproj": {}
   },
   "projects": {
-    "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/Animal/Animal.csproj": {
+    "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/Animal/Animal.csproj",
-        "projectName": "Animal",
-        "projectPath": "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/Animal/Animal.csproj",
+        "projectUniqueName": "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/ConsoleApp.csproj",
         "packagesPath": "/Users/hieuphan/.nuget/packages/",
-        "outputPath": "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/Animal/obj/",
+        "outputPath": "/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hieuphan/.nuget/NuGet/NuGet.Config"

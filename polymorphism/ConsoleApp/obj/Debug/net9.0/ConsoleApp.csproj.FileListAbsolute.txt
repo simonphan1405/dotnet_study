@@ -1,0 +1,15 @@
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ConsoleApp.sourcelink.json
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/hieuphan/Documents/web-development/study/dotnet_study/polymorphism/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
