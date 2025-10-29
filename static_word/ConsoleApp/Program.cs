@@ -6,4 +6,4 @@ Person person = new()
     Name = "John Doe"
 };
 
-Console.WriteLine($"Person ID: {person.Id}, Name: {person.Name}");
+person.Print();
